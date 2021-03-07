@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T12:53:14.744Z" agent="5.0 (Windows)" version="14.3.1" etag="mAEJO8KwgZsuK85h9NTD" type="github"><diagram id="qYXOTBADTlD6r1PIQ9Ue">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-07T13:00:54.761Z" agent="5.0 (Windows)" etag="5oj0jPLQ4wq_31A9F1_G" version="14.3.1" type="github">
+  <diagram id="qYXOTBADTlD6r1PIQ9Ue" name="Page-1">
+    <mxGraphModel dx="782" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJIFpTjNeK1A_BjzFA1M-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJIFpTjNeK1A_BjzFA1M-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJIFpTjNeK1A_BjzFA1M-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.assessments" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJIFpTjNeK1A_BjzFA1M-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Service Provider&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJIFpTjNeK1A_BjzFA1M-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Service Registry&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJIFpTjNeK1A_BjzFA1M-11" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Service Consumer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
